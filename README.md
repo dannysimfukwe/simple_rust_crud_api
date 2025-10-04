@@ -77,8 +77,8 @@ Server should start on:
   GET      `/items`       Fetch all items
   GET      `/items/:id`   Fetch single item
   POST     `/items`       Create new item
-  PUT      `/items/:id`   Update item
-  DELETE   `/items/:id`   Delete item
+  PUT      `/items/:id/update`   Update item
+  DELETE   `/items/:id/delete`   Delete item
 
 ------------------------------------------------------------------------
 
