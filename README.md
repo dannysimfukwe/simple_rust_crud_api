@@ -40,6 +40,10 @@ APP_PORT=3000
 Make sure you have PostgreSQL running locally and run any necessary
 migrations.
 
+``` bash
+sqlx migrate run
+```
+
 ### 4. Run the server
 
 ``` bash
