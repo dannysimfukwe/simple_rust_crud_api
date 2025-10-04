@@ -22,8 +22,8 @@ operations efficiently.
 ### 1. Clone and enter the project
 
 ``` bash
-git clone https://github.com/your-username/rust-crud-api.git
-cd rust-crud-api
+git clone https://github.com/dannysimfukwe/simple_rust_crud_api.git
+cd simple_rust_crud_api
 ```
 
 ### 2. Set up environment variables
