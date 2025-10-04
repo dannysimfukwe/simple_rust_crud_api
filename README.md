@@ -43,6 +43,7 @@ migrations.
 ### 4. Run the server
 
 ``` bash
+sqlx migrate run
 cargo run
 ```
 
@@ -53,7 +54,7 @@ Server should start on:
 ------------------------------------------------------------------------
 
 ## 📂 Project Structure
-
+    migrations
     src/
     ├── main.rs
     ├── db.rs
