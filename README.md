@@ -47,7 +47,6 @@ sqlx migrate run
 ### 4. Run the server
 
 ``` bash
-sqlx migrate run
 cargo run
 ```
 
